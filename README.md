@@ -1,7 +1,5 @@
 # Sales Management Dashboard
 
-A CRM dashboard built with React, Vite, and Google Gemini AI.
-
 ## Features
 - Dashboard Overview
 - Customer Management

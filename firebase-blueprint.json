@@ -1,0 +1,35 @@
+{
+  "entities": {
+    "User": {
+      "title": "User Profile",
+      "description": "Information about a registered user in the CRM workstation system.",
+      "type": "object",
+      "properties": {
+        "uid": {
+          "type": "string",
+          "description": "Unique Identifier from Google Auth"
+        },
+        "email": {
+          "type": "string",
+          "description": "Email address of the user"
+        },
+        "name": {
+          "type": "string",
+          "description": "Full name or display name of the user"
+        },
+        "role": {
+          "type": "string",
+          "enum": ["Admin", "Employee"],
+          "description": "Access control role of the user"
+        }
+      },
+      "required": ["uid", "email"]
+    }
+  },
+  "firestore": {
+    "/users/{userId}": {
+      "schema": "User",
+      "description": "Metadata and credentials for direct Google Authentication sync."
+    }
+  }
+}

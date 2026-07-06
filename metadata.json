@@ -1,0 +1,8 @@
+{
+  "name": "Remix: CRM Client Dashboard",
+  "description": "A professional SaaS-style CRM and client management system with robust tracking, analytics, communications timeline, interactive calendar, import/export system, and detailed activity logs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

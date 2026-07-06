@@ -2,6 +2,7 @@
 
 A modern, responsive CRM dashboard built for managing customers, sales, inventory, and business analytics.
 
+LOGIN <img width="869" height="583" alt="Screenshot 2026-07-06 061235" src="https://github.com/user-attachments/assets/b7e3abba-e61f-487d-8d44-16390900c923" />
 
 ## ✨ Features
 
@@ -21,6 +22,11 @@ A modern, responsive CRM dashboard built for managing customers, sales, inventor
 - Firebase
 - Google Gemini AI
 - Tailwind CSS (if used)
+
+Dashboard
+<img width="1267" height="658" alt="Screenshot 2026-07-06 130346" src="https://github.com/user-attachments/assets/411cf3e8-6b5a-4015-92fe-56da8013e112" />
+
+
 
 
 ## 🚀 Getting Started

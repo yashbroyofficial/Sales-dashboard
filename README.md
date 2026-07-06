@@ -53,8 +53,7 @@ src/
 
 **Your Name**
 
-GitHub: https://github.com/yourusername
-
+GitHub: https://github.com/yashbroyofficial
 ---
 
 ⭐ If you like this project, consider giving it a star!

@@ -51,7 +51,7 @@ src/
 
 ## Author
 
-**Your Name**
+**Yashvardhan Goel**
 
 GitHub: https://github.com/yashbroyofficial
 ---
